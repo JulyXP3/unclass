@@ -20,7 +20,7 @@ setvar: 在容器中放入数据
 
 本教程演示采用预设: TG猫Claude版
 
-![](.\Snipaste_2026-11-01_18-40-09.png)
+![]([.\Snipaste_2026-11-01_18-40-09.png](https://github.com/JulyXP3/unclass/blob/main/Snipaste_2026-11-01_18-40-09.png))
 
 1. 假设我现在用于
 
