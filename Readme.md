@@ -20,7 +20,18 @@ setvar: 在容器中放入数据
 
 本教程演示采用预设: TG猫Claude版
 
-![](https://github.com/JulyXP3/unclass/blob/main/Snipaste_2026-11-01_18-40-09.png)
+![](https://github.com/JulyXP3/unclass/blob/main/TG小克版.png)
 
-1. 假设我现在用于
+假设我们想缝一个叫做"防阳光"的条目, 这个条目的内容只有
+```
+- 情绪修正: 
+  体现世界真实性，任何角色都会出现对应的负面/极端情绪，避免出现任何“童话感”或“温馨日常”场景
+- 性格修正:
+  体现世界残酷性，任何角色以利益为先，不体现任何温情
+```
 
+1. 第一步, 找到初始化变量条目
+
+   它的名字可能不叫"初始化变量", 但一般来说就在预设的前面几条
+
+![](https://github.com/JulyXP3/unclass/blob/main/变量.png)
